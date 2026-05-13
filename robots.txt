@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This project is for educational and research purposes only.
+# No indexing of simulation or test environments.
